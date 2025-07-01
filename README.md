@@ -1,11 +1,22 @@
-# titanic-prediction
-Titanic Survival Prediction-CODSOFT Internship Task 1
-The project is part of the CODSOFT Data Science internship.The goal is to build a machine learning model that predicts whether a passenger on the Titanic survived based on available data such as age,gender,class,fare,etc.
-Problem Statement:
-Use the Titanic dataset to train a model that can predict passenger survival. This is a binary classification problem(Survived=0 or 1)
-Files in the Project-
-1.train.csv-Training data with survival labels
-2.test.csv-Test data without labels
-3.gender_submission.csv-Sample submission format
-4.
+Task: Titanic Survival Prediction (CodSoft Data Science Internship)
 
+As part of the CodSoft Data Science Internship program, this task involves working with the Titanic dataset to build a predictive model that determines whether a passenger survived the Titanic disaster. This is a foundational machine learning project ideal for beginners and helps in understanding essential concepts like data preprocessing, feature engineering, and classification.
+
+The dataset includes key features such as:
+
+Passenger Age
+
+Gender
+
+Ticket Class
+
+Fare
+
+Cabin
+
+Survival status (target variable)
+
+Objective:
+Develop a model using Python (with libraries such as Pandas, NumPy, Scikit-learn, etc.) to classify passengers based on the likelihood of survival. You are expected to analyze the dataset, handle missing values, explore relationships between features, and apply appropriate machine learning algorithms (e.g., Logistic Regression, Decision Tree, Random Forest).
+
+This task will enhance your skills in data handling, EDA (Exploratory Data Analysis), and model evaluation—crucial aspects of real-world data science projects.
